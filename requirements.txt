@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain-community
+langchain-ollama
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+shap
